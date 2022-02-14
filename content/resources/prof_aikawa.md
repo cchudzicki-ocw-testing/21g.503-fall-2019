@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 resourcetype: Image
 title: Prof_Aikawa.jpg
+type: OCWImage
 uid: 5bf9bb54-20f5-c2ab-52fd-57c055552e07
 ---

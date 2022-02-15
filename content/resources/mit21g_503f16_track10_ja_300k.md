@@ -6,6 +6,5 @@ file_type: application/x-subrip
 learning_resource_types: []
 resourcetype: Other
 title: MIT21G_503F16_track10_ja_300k.srt
-type: OCWFile
 uid: c21dd751-131b-348f-0033-5b94423ad060
 ---

@@ -12,6 +12,5 @@ parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection
 resourcetype: Image
 title: Takako_A.jpg
-type: OCWImage
 uid: f0a57e24-86c5-5b1d-2511-19debfca8e33
 ---

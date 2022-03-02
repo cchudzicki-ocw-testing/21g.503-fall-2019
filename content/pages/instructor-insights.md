@@ -18,21 +18,21 @@ In the following dual language videos, which were recorded in 2016, Senior Lectu
 
 View in English:
 
-*   {{< resource_link 6406689a-acb5-8e85-8e91-e167cd050080 "Meet the Educator" >}}
-*   {{< resource_link 6a052dfe-7676-79ec-1939-eb2916f9a1fe "Grammar and Drill Sessions" >}}
-*   {{< resource_link e66a97f6-ceea-21d2-5b95-65b205dd1fde "Developing Students’ Language Skills" >}}
-*   {{< resource_link b8821bd5-2c2d-511b-5ae2-4e41f3eb66f9 "Assessment Strategies" >}}
-*   {{< resource_link 0c10df5c-dd0d-c5fa-2554-7e5dcdb74902 "Teaching Japanese Culture through Language" >}}
-*   {{< resource_link 09cfb663-d281-6e4b-1591-5b443f3b0192 "Japanese Community Events" >}}
+*   {{% resource_link 6406689a-acb5-8e85-8e91-e167cd050080 "Meet the Educator" %}}
+*   {{% resource_link 6a052dfe-7676-79ec-1939-eb2916f9a1fe "Grammar and Drill Sessions" %}}
+*   {{% resource_link e66a97f6-ceea-21d2-5b95-65b205dd1fde "Developing Students’ Language Skills" %}}
+*   {{% resource_link b8821bd5-2c2d-511b-5ae2-4e41f3eb66f9 "Assessment Strategies" %}}
+*   {{% resource_link 0c10df5c-dd0d-c5fa-2554-7e5dcdb74902 "Teaching Japanese Culture through Language" %}}
+*   {{% resource_link 09cfb663-d281-6e4b-1591-5b443f3b0192 "Japanese Community Events" %}}
 
 View in Japanese:
 
-*   {{< resource_link 690b14c6-7b9f-910f-e0d2-3d3d68accb4d "教育者に会う" >}}
-*   {{< resource_link fc7465af-423a-005b-2c7f-eef9f722a2c3 "文法とドリルセッション" >}}
-*   {{< resource_link 47697f33-a73c-892a-770e-645ff8b0c473 "学生の語学力を育てる" >}} 
-*   {{< resource_link 837cfa16-34ae-6332-07ae-6090770a0ec8 "アセスメントの対策" >}}
-*   {{< resource_link 0451acdb-2a91-e7cf-816c-400d8cd74781 "言語を通しての日本文化の指導" >}}
-*   {{< resource_link dd852f00-6aa1-3733-11ce-1b9e7db66975 "日本のコミュニティイベント" >}}
+*   {{% resource_link 690b14c6-7b9f-910f-e0d2-3d3d68accb4d "教育者に会う" %}}
+*   {{% resource_link fc7465af-423a-005b-2c7f-eef9f722a2c3 "文法とドリルセッション" %}}
+*   {{% resource_link 47697f33-a73c-892a-770e-645ff8b0c473 "学生の語学力を育てる" %}} 
+*   {{% resource_link 837cfa16-34ae-6332-07ae-6090770a0ec8 "アセスメントの対策" %}}
+*   {{% resource_link 0451acdb-2a91-e7cf-816c-400d8cd74781 "言語を通しての日本文化の指導" %}}
+*   {{% resource_link dd852f00-6aa1-3733-11ce-1b9e7db66975 "日本のコミュニティイベント" %}}
 
 Curriculum Information
 ----------------------
@@ -75,7 +75,7 @@ The students' grades were based on the following activities:
 
 ### Instructor Insights on Assessment
 
-Takako Aikawa shares her insights about {{< resource_link b8821bd5-2c2d-511b-5ae2-4e41f3eb66f9 "assessing student learning through a daily grading system and interviews" >}}.
+Takako Aikawa shares her insights about {{% resource_link b8821bd5-2c2d-511b-5ae2-4e41f3eb66f9 "assessing student learning through a daily grading system and interviews" %}}.
 
 Student Information
 -------------------
@@ -115,4 +115,4 @@ In Class
 Out of Class
 ------------
 
-*   Students completed workbook and project assignments, prepared for quizzes and exams, and participated in optional {{< resource_link 09cfb663-d281-6e4b-1591-5b443f3b0192 "Japanese community events on campus" >}}.
+*   Students completed workbook and project assignments, prepared for quizzes and exams, and participated in optional {{% resource_link 09cfb663-d281-6e4b-1591-5b443f3b0192 "Japanese community events on campus" %}}.

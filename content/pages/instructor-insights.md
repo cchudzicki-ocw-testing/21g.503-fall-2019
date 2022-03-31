@@ -19,7 +19,7 @@ uid: 4e53ed32-26d3-1ced-4e6d-ed3f99127d69
 
  
 
-In the following dual language videos, which were recorded in 2016, Senior Lecturer Takako Aikawa describes various aspects of how she teaches _21G.503 Japanese III_.
+In the following dual language videos, which were recorded in 2016, Senior Lecturer Takako Aikawa describes various aspects of how she teaches *21G.503 Japanese III*.
 
 View in English:
 
@@ -43,7 +43,7 @@ View in Japanese:
 
 ### Prerequisites
 
-This course is the third part of a six-course sequence. The sequence continues in [_21G.504 Japanese IV_](/courses/21g-504-japanese-iv-spring-2009). The first course in the sequence is [_21G.501 Japanese I_](/courses/21g-501-japanese-i-fall-2012/). The second course in the sequence is [_21G.502 Japanese II_](/courses/21g-502-japanese-ii-spring-2013/).
+This course is the third part of a six-course sequence. The sequence continues in [*21G.504 Japanese IV*](/courses/21g-504-japanese-iv-spring-2009). The first course in the sequence is [*21G.501 Japanese I*](https://ocwnext.odl.mit.edu/courses/21g-501-japanese-i-fall-2019/). The second course in the sequence is [*21G.502 Japanese II*](https://ocwnext.odl.mit.edu/courses/21g-502-japanese-ii-spring-2020/).
 
 ### Requirements Satisfied
 

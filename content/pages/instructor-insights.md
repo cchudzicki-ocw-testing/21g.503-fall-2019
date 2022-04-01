@@ -11,11 +11,11 @@ uid: 4e53ed32-26d3-1ced-4e6d-ed3f99127d69
 
 ## Instructor Insights
 
-\[
+[
 
 {{< resource f0a57e24-86c5-5b1d-2511-19debfca8e33 >}}
 
-\]({{< baseurl >}}/resources/meet-the-educator){{< quote "When I first taught Japanese, I found a great gem and since then, I’ve been very passionate about language teaching." "— Takako Aikawa" >}}
+]({{< baseurl >}}/resources/meet-the-educator){{< quote "When I first taught Japanese, I found a great gem and since then, I’ve been very passionate about language teaching." "— Takako Aikawa" >}}
 
  
 

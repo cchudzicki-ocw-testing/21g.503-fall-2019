@@ -43,7 +43,7 @@ View in Japanese:
 
 ### Prerequisites
 
-This course is the third part of a six-course sequence. The sequence continues in [*21G.504 Japanese IV*](/courses/21g-504-japanese-iv-spring-2009). The first course in the sequence is [*21G.501 Japanese I*](/courses/21g-501-japanese-i-fall-2019/). The second course in the sequence is [*21G.502 Japanese II*](/courses/21g-502-japanese-ii-spring-2020/).
+This course is the third part of a six-course sequence. The sequence continues in [*21G.504 Japanese IV*](/courses/21g-504-japanese-iv-spring-2009). The first course in the sequence is [*21G.501 Japanese I*](/courses/21g-501-japanese-i-fall-2019). The second course in the sequence is [*21G.502 Japanese II*](/courses/21g-502-japanese-ii-spring-2020).
 
 ### Requirements Satisfied
 

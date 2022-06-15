@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This page provides the class schedule and summary of in-class activities
+  for the MIT course 21G.503 Japanese III, Fall 2019 taught by Takako Aikawa , Masami
+  Ikeka-Lamm, Wakana Maekawa, and Emiko Rafique.
 draft: false
 learning_resource_types: []
 ocw_type: CourseSection
